@@ -1,0 +1,12 @@
+Available Resource 1
+4 5 1 
+Available Resource 2
+5 1 0 
+Available Resource 3
+3 3 2 
+Available Resource 4
+6 6 6 
+Available Resource 5
+9 0 0 
+Available Resource 6
+7 6 5 
